@@ -27,32 +27,32 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
       
 
 /*============== INFO OWNER ==============*/
-global.sig = 'https://instagram.com/nvmzzzz_'
-global.syt = 'https://youtube.com/channel/UC28pUSJ1MyZhqGL_lamNQRw'
+global.sig = 'https://instagram.com/kefaargensaa'
+global.syt = 'https://youtube.com/channel/UC0i7N-XibxLGiglPihkwRRQ'
 global.sgh = 'https://github.com/Ryuzakidika'
-global.sgc = 'https://chat.whatsapp.com/ECmDXCJBCFEEtr3J2RvtTg'
-global.swa = 'wa.me/6281553838607'
+global.sgc = 'https://chat.whatsapp.com/D7X4ZKXWxn6IMPJsBsSqP6'
+global.swa = 'wa.me/6281359923637'
 global.swb = 'https://discord.gg/4HvezMAw'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
 /*============== PAYMENT ==============*/
-global.pdana = '081553838607'
+global.pdana = '081359923637'
 global.povo = '-'
 global.pgopay = '-'
-global.ppulsa = '081553838607'
-global.ppulsa2 = '081553838607'
+global.ppulsa = '081359923637'
+global.ppulsa2 = '081359923637'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6287723753404'
-global.nomorown = '6281553838607'
-global.namebot = 'Xiel MD'
-global.nameown = 'Ryuzaki'
+global.nomorbot = '081362293759'
+global.nomorown = '081359923637'
+global.namebot = 'TOMMYSTORE MD'
+global.nameown = 'TOMMY'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6281553838607', 'Ryuzaki', 'true']
+  ['6281359923637', 'TOMMY', 'true']
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -102,34 +102,34 @@ global.bear = 'VBkM7rbU'
 
 
 /*============== WATERMARK ==============*/
-global.wm = 'Xiel' //Main Watermark
-global.wm2 = 'Xiel'
-global.wm3 = 'Xiel MD | By Zaki'
+global.wm = 'TOMMYSTORE' //Main Watermark
+global.wm2 = 'TOMMYSTORE'
+global.wm3 = 'TOMMYSTORE MD | By TOMMY'
 global.botdate = `⻝ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⻝ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `⻝ 𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = `Xiel MD | ʙʏ ${global.nameown}`
-global.author = 'Zaki' 
-global.packname = 'Xiel'
+global.titlebot = `TOMMYSTORE MD | ʙʏ ${global.nameown}`
+global.author = 'AdDE' 
+global.packname = 'TOMMYSTORE'
 global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰'
 global.ultahowner = 'Maret 3 2023'
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://telegra.ph/file/4baf46eff852d52fb3beb.jpg' //Main Thumbnail
-global.imagebot = 'https://telegra.ph/file/4baf46eff852d52fb3beb.jpg'
+global.thumb = 'https://telegra.ph/file/e5da88f4011b0c1c24168.jpg' //Main Thumbnail
+global.imagebot = 'https://telegra.ph/file/e5da88f4011b0c1c24168.jpg'
 global.giflogo = 'https://ibb.co/3sJ0ybv'
-global.giflogo2 = 'https://telegra.ph/file/4baf46eff852d52fb3beb.jpg'
-global.thumbs = ['https://telegra.ph/file/4baf46eff852d52fb3beb.jpg']
+global.giflogo2 = 'https://telegra.ph/file/e5da88f4011b0c1c24168.jpg'
+global.thumbs = ['https://telegra.ph/file/e5da88f4011b0c1c24168.jpg']
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 global.thumbBanned = 'https://telegra.ph/file/77d11b06617f0797a45ac.jpg'
 global.thumbWarn = 'https://telegra.ph/file/77d11b06617f0797a45ac.jpg'
-global.botintro = 'Hallo, Kenalin saya Xiel-MD Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh Ryuzaki Saya di rilis pada tanggal\n🗓 ️_3/11/2022_'
+global.botintro = 'Hallo, Kenalin saya TOMMYSTORE-MD Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh Ryuzaki Saya di rilis pada tanggal\n🗓 ️_3/11/2022_'
 global.intro = 'https://telegra.ph/file/93dd3203b2bc4cd262ee7.jpg'
 /*============== GLOBAL BIO ==============*/
-global.nameowner = 'Ryuzaki'
-global.umurowner = '17'
+global.nameowner = 'Ade'
+global.umurowner = '16'
 global.asalowner = 'Jawa Timur, Mojokerto'
-global.nomorowner = 'wa.me/6281553838607'
+global.nomorowner = 'wa.me/6281359923637'
 global.pacarowner = '-'
 
 /*============== TEXT ==============*/

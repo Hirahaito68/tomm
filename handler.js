@@ -611,7 +611,7 @@ esteh: 0,
     })
 }
           global.kontak2 = [
-        ['6281553838607', 'Ryuzaki', 'Creator Bot', 'Creator Bot', true],
+        ['6281334532445', 'ADE', 'Creator Bot', 'Creator Bot', true],
         [`${nomorown}`, `${nameown}`, 'Owner Bot', 'Owner Bot', true]
         ]
             let settings = global.db.data.settings[this.user.jid]
@@ -621,8 +621,8 @@ esteh: 0,
                 if (!('autoread' in settings)) settings.autoread = true
                 if (!('restrict' in settings)) settings.restrict = true
                 if (!('autorestart' in settings)) settings.autorestart = true
-                if (!('restartDB' in settings)) settings.restartDB = 0
-                if (!isNumber(settings.status)) settings.status = 0 // ini buat data set Status, tambah disini
+                if (!('restartDB' in settings)) settings.restartDB = true
+                if (!isNumber(settings.status)) settings.status = true // ini buat data set Status, tambah disini
                 if (!('anticall' in settings)) settings.anticall = true
                 if (!('clear' in settings)) settings.clear = true
                 if (!isNumber(settings.clearTime)) settings.clearTime = 0
