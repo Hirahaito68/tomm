@@ -108,7 +108,7 @@ global.wm3 = 'TOMMYSTORE MD | By TOMMY'
 global.botdate = `⻝ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⻝ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `⻝ 𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = `TOMMYSTORE MD | ʙʏ ${global.nameown}`
-global.author = 'AdDE' 
+global.author = 'TOMMY' 
 global.packname = 'TOMMYSTORE'
 global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰'
 global.ultahowner = 'Maret 3 2023'
@@ -126,7 +126,7 @@ global.thumbWarn = 'https://telegra.ph/file/77d11b06617f0797a45ac.jpg'
 global.botintro = 'Hallo, Kenalin saya TOMMYSTORE-MD Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh Ryuzaki Saya di rilis pada tanggal\n🗓 ️_3/11/2022_'
 global.intro = 'https://telegra.ph/file/93dd3203b2bc4cd262ee7.jpg'
 /*============== GLOBAL BIO ==============*/
-global.nameowner = 'Ade'
+global.nameowner = 'TOMMY'
 global.umurowner = '16'
 global.asalowner = 'Jawa Timur, Mojokerto'
 global.nomorowner = 'wa.me/6281359923637'
@@ -379,7 +379,7 @@ global.hwaifu = ['https://i.pinimg.com/originals/ed/34/f8/ed34f88af161e6278993e1
 'https://i.pinimg.com/originals/80/4f/1a/804f1a05f9996c96a2d492b4854b7fd5.jpg']
 /*============== STICKER WM ==============*/
 global.stickpack = 'ᴍᴀᴅᴇ ʙʏ'
-global.stickauth = `King Of Bear`
+global.stickauth = `TOMMYSTORE`
 
 global.multiplier = 38 // The higher, The harder levelup
 
