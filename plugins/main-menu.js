@@ -294,7 +294,7 @@ let tek = `
 `
 const listMessage = {
   text: tek,
-  footer: '© XIEL | ALL RESERVED',
+  footer: '© TOMMYSTORE | ALL RESERVED',
   mentions: await conn.parseMention(tek),
   title: ``,
   buttonText: `LIST MENU`,
@@ -592,7 +592,7 @@ function _0x1766() {
                 {
                     urlButton: {
                         displayText: `${namebot}`,
-                        url: 'https://chat.whatsapp.com/ECmDXCJBCFEEtr3J2RvtTg'
+                        url: 'https://chat.whatsapp.com/D7X4ZKXWxn6IMPJsBsSqP6'
                     }
                 },
                 {
